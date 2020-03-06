@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2019-02-27</lastmod>
+    <lastmod>2020-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,8 +16,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/steps.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <loc>http://test.com/quationnarie.html</loc>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,8 +34,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/future.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <loc>http://test.com/thoughts.html</loc>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>http://test.com/narrative.html</loc>
-    <lastmod>2019-02-27</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>http://test.com/projectoverview.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://test.com/contribute.html</loc>
-    <lastmod>2019-02-27</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +125,7 @@
   </url>
   <url>
     <loc>http://test.com/plan.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>http://test.com/mainpage.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -164,7 +164,7 @@
   </url>
   <url>
     <loc>http://test.com/master.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,8 +181,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/tradartwork.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <loc>http://test.com/steps.html</loc>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -199,44 +199,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://test.com/mryen.html</loc>
-    <lastmod>2020-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/quationnarie.html</loc>
-    <lastmod>2020-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/thoughts.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <loc>http://test.com/future.html</loc>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,43 +218,7 @@
   </url>
   <url>
     <loc>http://test.com/mainpage-copy.html</loc>
-    <lastmod>2020-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/steps-copy.html</loc>
-    <lastmod>2020-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/home_logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://test.com/work.html</loc>
-    <lastmod>2020-03-03</lastmod>
+    <lastmod>2020-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +236,7 @@
   </url>
   <url>
     <loc>http://test.com/untitled-16.html</loc>
-    <lastmod>2020-03-01</lastmod>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -316,6 +244,147 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/mryen.html</loc>
+    <lastmod>2020-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/tradartwork.html</loc>
+    <lastmod>2020-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/work.html</loc>
+    <lastmod>2020-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/homepage.html</loc>
+    <lastmod>2020-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/frontlogohd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/introbackground01.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/future-copy.html</loc>
+    <lastmod>2020-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/productionprocess.html</loc>
+    <lastmod>2020-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/quationnarie-copy.html</loc>
+    <lastmod>2020-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://test.com/thoughts-copy.html</loc>
+    <lastmod>2020-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/home_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/mount05.png</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,57 +1,64 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583212580313">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583511883761">
   <folder name="css">
     <file name="site_global.css" crc="31943747"/>
     <file name="master_mainpage.css" crc="289503867" ref="thoughts:quationnarie:mainpage:work:tradartwork:untitled-16:master:mryen:steps:future"/>
     <file name="master_intro.css" crc="3870257315" ref="projectoverview:contribute:plan:narrative"/>
-    <file name="master_mainpage-eng.css" crc="3769759545" ref="mainpage-copy:steps-copy"/>
-    <file name="master_home.css" crc="4129488348" ref="index"/>
+    <file name="master_mainpage-eng.css" crc="4045444625" ref="mainpage-copy:quationnarie-copy:future-copy:productionprocess:thoughts-copy"/>
+    <file name="master_home.css" crc="4129488348" ref="index:homepage"/>
     <file name="thoughts.css" crc="68080405" ref="thoughts"/>
     <file name="quationnarie.css" crc="473561438" ref="quationnarie"/>
     <file name="mainpage.css" crc="4269245221" ref="mainpage"/>
     <file name="work.css" crc="205773756" ref="work"/>
-    <file name="index.css" crc="4090423479" ref="index"/>
-    <file name="mainpage-copy.css" crc="3908139712" ref="mainpage-copy"/>
+    <file name="index.css" crc="21685204" ref="index"/>
+    <file name="mainpage-copy.css" crc="3896062443" ref="mainpage-copy"/>
     <file name="tradartwork.css" crc="4270135528" ref="tradartwork"/>
     <file name="projectoverview.css" crc="107346268" ref="projectoverview"/>
     <file name="untitled-16.css" crc="191878884" ref="untitled-16"/>
     <file name="master.css" crc="4195945801" ref="master"/>
-    <file name="steps-copy.css" crc="4198780216" ref="steps-copy"/>
     <file name="mryen.css" crc="370563697" ref="mryen"/>
     <file name="steps.css" crc="299612880" ref="steps"/>
     <file name="contribute.css" crc="7252999" ref="contribute"/>
     <file name="future.css" crc="373451046" ref="future"/>
     <file name="plan.css" crc="48358301" ref="plan"/>
     <file name="narrative.css" crc="4270837040" ref="narrative"/>
+    <file name="homepage.css" crc="4072017672" ref="homepage"/>
+    <file name="quationnarie-copy.css" crc="4135920877" ref="quationnarie-copy"/>
+    <file name="future-copy.css" crc="421035395" ref="future-copy"/>
+    <file name="productionprocess.css" crc="3975417641" ref="productionprocess"/>
+    <file name="thoughts-copy.css" crc="3794465306" ref="thoughts-copy"/>
   </folder>
   <folder name="assets">
     <file name="oriwork~2.mp4" crc="3977603487" seo="true" mt="1551101526000"/>
     <file name="sddefault.jpg.png" crc="3834510150" seo="true" mt="1551179364000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="museutils.js" crc="3939489907" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:steps-copy"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
-    <file name="require.js" crc="4177726516" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="museutils.js" crc="3939489907" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
+    <file name="require.js" crc="4177726516" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
   </folder>
   <folder name="images">
     <file name="footer.png" crc="72676742" ref="index:narrative:mainpage:mainpage-copy">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home_logo01.png" crc="112749751" seo="true" ref="index">
+    <file name="home_logo01.png" crc="112749751" seo="true" ref="index:homepage">
       <caption webpage="index" alt=""/>
+      <caption webpage="homepage" alt=""/>
     </file>
-    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="index">
+    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="index:homepage">
       <caption webpage="index" alt=""/>
+      <caption webpage="homepage" alt=""/>
     </file>
-    <file name="introbackground01.png" crc="155101884" seo="true" ref="index">
+    <file name="introbackground01.png" crc="155101884" seo="true" ref="index:homepage">
       <caption webpage="index" alt=""/>
+      <caption webpage="homepage" alt=""/>
     </file>
-    <file name="button.png" crc="3818276249" ref="index:narrative:mainpage:mainpage-copy">
+    <file name="button.png" crc="3818276249" ref="index:narrative:mainpage:mainpage-copy:homepage">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -88,16 +95,6 @@
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
@@ -108,24 +105,26 @@
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy"/>
+    <file name="blank.gif" crc="4208392903" ref="index:narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:homepage:future-copy"/>
     <file name="u27153.png" crc="4184717603" ref="index"/>
     <file name="u27153-m.png" crc="519558785" ref="index"/>
     <file name="u27153-a.png" crc="4184717603" ref="index"/>
-    <file name="arrowmenudown.png" crc="262559161" ref="index:mainpage:mainpage-copy">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:mainpage:mainpage-copy:homepage">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="homepage" alt=""/>
+      <caption webpage="homepage" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
     </file>
     <file name="u27163-4.png" crc="4087087419" ref="index"/>
     <file name="u27169-4.png" crc="67831427" ref="index"/>
     <file name="u27120.png" crc="491217459" ref="index"/>
     <file name="u27120-m.png" crc="404880270" ref="index"/>
     <file name="u27120-a.png" crc="491217459" ref="index"/>
-    <file name="button-u27124-r-fr.png" crc="159310088" ref="index"/>
+    <file name="button-u27124-r-fr.png" crc="159310088" ref="index:homepage"/>
     <file name="u27126-4.png" crc="3904068208" ref="index"/>
     <file name="u27135-4.png" crc="236540599" ref="index"/>
     <file name="u27139-4.png" crc="477511011" ref="index"/>
@@ -141,24 +140,28 @@
     <file name="u27098.png" crc="3807893050" ref="index"/>
     <file name="u27098-m.png" crc="152046100" ref="index"/>
     <file name="u27098-a.png" crc="3807893050" ref="index"/>
-    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy">
+    <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy">
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="steps" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="plan" alt=""/>
-      <caption webpage="thoughts" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="master" alt=""/>
-      <caption webpage="narrative" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="untitled-16" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="u21272.png" crc="4139104462" ref="narrative:projectoverview:contribute:plan"/>
     <file name="u21272-m.png" crc="405646120" ref="narrative:projectoverview:contribute:plan"/>
@@ -178,7 +181,7 @@
     <file name="background04.jpg" crc="3822374416" ref="narrative">
       <caption webpage="narrative" alt=""/>
     </file>
-    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:steps-copy">
+    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy">
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork" alt=""/>
@@ -188,10 +191,15 @@
       <caption webpage="steps" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="plan" alt=""/>
@@ -216,6 +224,17 @@
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
@@ -233,28 +252,35 @@
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
+      <caption webpage="future-copy" alt=""/>
+      <caption webpage="future-copy" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="u12950-5.png" crc="3805981814" ref="narrative"/>
     <file name="relateinfo.png" crc="3929212042" seo="true" ref="narrative">
       <caption webpage="narrative" alt=""/>
     </file>
-    <file name="home_logo.png" crc="4037911285" seo="true" ref="narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:steps-copy">
+    <file name="home_logo.png" crc="4037911285" seo="true" ref="narrative:projectoverview:contribute:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy">
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="steps" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="plan" alt=""/>
-      <caption webpage="thoughts" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="master" alt=""/>
-      <caption webpage="narrative" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="untitled-16" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="background03.jpg" crc="483631935" ref="narrative:projectoverview:contribute:plan">
       <caption webpage="narrative" alt=""/>
@@ -262,20 +288,24 @@
       <caption webpage="contribute" alt=""/>
       <caption webpage="plan" alt=""/>
     </file>
-    <file name="mount05.png" crc="258918163" seo="true" ref="projectoverview:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:steps-copy">
+    <file name="mount05.png" crc="258918163" seo="true" ref="projectoverview:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy">
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="projectoverview" alt=""/>
       <caption webpage="future" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="inkpoint2.png" crc="3802025612" seo="true" ref="projectoverview">
       <caption webpage="projectoverview" alt=""/>
@@ -285,7 +315,7 @@
       <caption webpage="projectoverview" alt=""/>
     </file>
     <file name="u16954-6.png" crc="3758261495" ref="projectoverview"/>
-    <file name="bug01-u17708-fr.png" crc="192959032" ref="projectoverview:mainpage:master:steps:future:thoughts:mryen:mainpage-copy:steps-copy"/>
+    <file name="bug01-u17708-fr.png" crc="192959032" ref="projectoverview:mainpage:master:steps:future:thoughts:mryen:mainpage-copy:productionprocess:thoughts-copy:future-copy"/>
     <file name="inkpoint4.png" crc="4103885987" seo="true" ref="projectoverview">
       <caption webpage="projectoverview" alt=""/>
     </file>
@@ -306,9 +336,10 @@
       <caption webpage="projectoverview" alt=""/>
     </file>
     <file name="u17117-5.png" crc="251984289" ref="projectoverview"/>
-    <file name="butterfly.png" crc="433635995" ref="projectoverview:master:quationnarie">
-      <caption webpage="quationnarie" alt=""/>
+    <file name="butterfly.png" crc="433635995" ref="projectoverview:master:quationnarie:quationnarie-copy">
       <caption webpage="projectoverview" alt=""/>
+      <caption webpage="quationnarie" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="master" alt=""/>
     </file>
     <file name="inkpoint8.png" crc="4103885987" seo="true" ref="projectoverview">
@@ -332,10 +363,10 @@
     <file name="u17565-5.png" crc="322175890" ref="plan"/>
     <file name="u17568-5.png" crc="4262713112" ref="plan"/>
     <file name="u17571-5.png" crc="455440357" ref="plan"/>
-    <file name="u17636-5.png" crc="4176354059" ref="plan"/>
+    <file name="u17636-5.png" crc="4078551062" ref="plan"/>
     <file name="u17649-5.png" crc="475219245" ref="plan"/>
     <file name="butterfly-u17730-fr.png" crc="176377004" ref="plan"/>
-    <file name="u17662-6.png" crc="160222167" ref="plan"/>
+    <file name="u17662-6.png" crc="4056635687" ref="plan"/>
     <file name="plandecision.png" crc="109270869" seo="true" ref="plan">
       <caption webpage="plan" alt=""/>
     </file>
@@ -362,7 +393,7 @@
     <file name="u26865.png" crc="3807893050" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16"/>
     <file name="u26865-m.png" crc="152046100" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16"/>
     <file name="u26865-a.png" crc="3807893050" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:untitled-16"/>
-    <file name="8q6a8757-u19435-fr.png" crc="348553489" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:steps-copy"/>
+    <file name="8q6a8757-u19435-fr.png" crc="348553489" ref="mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
     <file name="u19494-4.png" crc="181278971" ref="mainpage"/>
     <file name="u19521-5.png" crc="3902797500" ref="mainpage"/>
     <file name="img_4554.jpg" crc="477079128" ref="mainpage:mryen:mainpage-copy">
@@ -371,14 +402,17 @@
       <caption webpage="mainpage" alt=""/>
     </file>
     <file name="u19527-6.png" crc="234353592" ref="mainpage"/>
-    <file name="bug03.png" crc="242220519" ref="mainpage:future:thoughts:mainpage-copy">
+    <file name="bug03.png" crc="242220519" ref="mainpage:future:thoughts:mainpage-copy:thoughts-copy:future-copy">
       <caption webpage="thoughts" alt=""/>
-      <caption webpage="future" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="mainpage" alt=""/>
+      <caption webpage="future" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
-    <file name="bug02.png" crc="3810471888" ref="mainpage:master:thoughts:mainpage-copy">
+    <file name="bug02.png" crc="3810471888" ref="mainpage:master:thoughts:mainpage-copy:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="mainpage" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="master" alt=""/>
@@ -414,159 +448,201 @@
     </file>
     <file name="u22480-4.png" crc="389542901" ref="steps"/>
     <file name="u22488-5.png" crc="158649803" ref="steps"/>
-    <file name="step01.jpg" crc="3919263567" ref="steps:steps-copy">
+    <file name="step01.jpg" crc="3919263567" ref="steps:productionprocess">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
-    <file name="img_4315-1-e1508930204294.jpg" crc="28584643" ref="steps:steps-copy">
+    <file name="img_4315-1-e1508930204294.jpg" crc="28584643" ref="steps:productionprocess">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
-    <file name="bird-u24746-fr.png" crc="4015298824" ref="steps:steps-copy"/>
+    <file name="bird-u24746-fr.png" crc="4015298824" ref="steps:productionprocess"/>
     <file name="u24689-5.png" crc="3906589897" ref="steps"/>
-    <file name="bug04.png" crc="481823702" ref="steps:quationnarie:thoughts:steps-copy">
-      <caption webpage="thoughts" alt=""/>
+    <file name="bug04.png" crc="481823702" ref="steps:quationnarie:thoughts:productionprocess:quationnarie-copy:thoughts-copy">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="quationnarie" alt=""/>
+      <caption webpage="quationnarie-copy" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
-    <file name="img_6056-2-1-e1508930808505.jpg" crc="255767112" ref="steps:steps-copy">
+    <file name="img_6056-2-1-e1508930808505.jpg" crc="255767112" ref="steps:productionprocess">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
     <file name="u24719-5.png" crc="3787548665" ref="steps"/>
-    <file name="step03.jpg" crc="3855656109" ref="steps:steps-copy">
+    <file name="step03.jpg" crc="3855656109" ref="steps:productionprocess">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
-    <file name="step.png" crc="279064191" ref="steps:steps-copy">
+    <file name="step.png" crc="279064191" ref="steps:productionprocess">
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps" alt=""/>
+      <caption webpage="productionprocess" alt=""/>
     </file>
     <file name="u22513-4.png" crc="4065741293" ref="future"/>
     <file name="u22517-6.png" crc="355977068" ref="future"/>
-    <file name="bird-u22582-fr.png" crc="71677041" ref="future:work"/>
-    <file name="20150315 林家億漆線雕mp4_snapshot_0051_-20190223_155659-.jpg" crc="4195339488" ref="future">
+    <file name="bird-u22582-fr.png" crc="71677041" ref="future:work:future-copy"/>
+    <file name="20150315 林家億漆線雕mp4_snapshot_0051_-20190223_155659-.jpg" crc="4195339488" ref="future:future-copy">
+      <caption webpage="future-copy" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
-    <file name="dsc02410.jpg" crc="3944221037" ref="future">
+    <file name="dsc02410.jpg" crc="3944221037" ref="future:future-copy">
+      <caption webpage="future-copy" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
     <file name="u22595-5.png" crc="406766671" ref="future"/>
-    <file name="dsc02454.jpg" crc="4111058698" ref="future:mryen">
+    <file name="dsc02454.jpg" crc="4111058698" ref="future:mryen:future-copy">
       <caption webpage="mryen" alt=""/>
+      <caption webpage="future-copy" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
     <file name="u24862-5.png" crc="3765937262" ref="future"/>
-    <file name="dsc02434.jpg" crc="4039256859" ref="future">
+    <file name="dsc02434.jpg" crc="4039256859" ref="future:future-copy">
+      <caption webpage="future-copy" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
-    <file name="value.png" crc="4281493609" ref="future">
+    <file name="value.png" crc="4281493609" ref="future:future-copy">
+      <caption webpage="future-copy" alt=""/>
       <caption webpage="future" alt=""/>
     </file>
     <file name="u24231-4.png" crc="3931592030" ref="quationnarie"/>
     <file name="u24235-5.png" crc="416918099" ref="quationnarie"/>
-    <file name="1.jpg" crc="191613162" ref="quationnarie">
+    <file name="1.jpg" crc="191613162" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="2.jpg" crc="4050457814" ref="quationnarie">
+    <file name="2.jpg" crc="4050457814" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="3.jpg" crc="529089569" ref="quationnarie">
+    <file name="3.jpg" crc="529089569" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="4.jpg" crc="75860588" ref="quationnarie">
+    <file name="4.jpg" crc="75860588" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="5.jpg" crc="208827950" ref="quationnarie">
+    <file name="5.jpg" crc="208827950" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="bug01-u25983-fr.png" crc="4058146566" ref="quationnarie"/>
-    <file name="6.jpg" crc="3972144879" ref="quationnarie">
+    <file name="bug01-u25983-fr.png" crc="4058146566" ref="quationnarie:quationnarie-copy"/>
+    <file name="6.jpg" crc="3972144879" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="bird-u25991-fr.png" crc="3822989447" ref="quationnarie"/>
-    <file name="7.jpg" crc="4013282906" ref="quationnarie">
+    <file name="bird-u25991-fr.png" crc="3822989447" ref="quationnarie:quationnarie-copy"/>
+    <file name="7.jpg" crc="4013282906" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="8.jpg" crc="4199552311" ref="quationnarie">
+    <file name="8.jpg" crc="4199552311" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="9.jpg" crc="3876361348" ref="quationnarie">
+    <file name="9.jpg" crc="3876361348" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="10.jpg" crc="3891281571" ref="quationnarie">
+    <file name="10.jpg" crc="3891281571" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="11.jpg" crc="299435311" ref="quationnarie">
+    <file name="11.jpg" crc="299435311" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
-    <file name="12.jpg" crc="321077989" ref="quationnarie">
+    <file name="12.jpg" crc="321077989" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="u24399-5.png" crc="4149325677" ref="quationnarie"/>
-    <file name="bug02-u25999-fr.png" crc="10156860" ref="quationnarie"/>
-    <file name="quetionaarie.png" crc="4058265004" ref="quationnarie">
+    <file name="bug02-u25999-fr.png" crc="10156860" ref="quationnarie:quationnarie-copy"/>
+    <file name="quetionaarie.png" crc="4058265004" ref="quationnarie:quationnarie-copy">
+      <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="quationnarie" alt=""/>
     </file>
     <file name="u24935-4.png" crc="4254019481" ref="thoughts"/>
     <file name="u24973-5.png" crc="6130791" ref="thoughts"/>
-    <file name="bryan.png" crc="168245581" ref="thoughts">
+    <file name="bryan.png" crc="168245581" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u24996-5.png" crc="285746326" ref="thoughts"/>
-    <file name="eileen.png" crc="3985247546" ref="thoughts">
+    <file name="eileen.png" crc="3985247546" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25026-5.png" crc="4129417940" ref="thoughts"/>
-    <file name="joanna.png" crc="111841242" ref="thoughts">
+    <file name="joanna.png" crc="111841242" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="bird-u25027-fr.png" crc="4226924729" ref="thoughts"/>
-    <file name="harry.png" crc="14940446" ref="thoughts">
+    <file name="bird-u25027-fr.png" crc="4226924729" ref="thoughts:thoughts-copy"/>
+    <file name="harry.png" crc="14940446" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25033-5.png" crc="401283543" ref="thoughts"/>
     <file name="u25067-5.png" crc="3847872297" ref="thoughts"/>
-    <file name="cheng-yu.png" crc="4286726742" ref="thoughts">
+    <file name="cheng-yu.png" crc="4286726742" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25074-5.png" crc="3981775427" ref="thoughts"/>
-    <file name="name1.png" crc="90039637" ref="thoughts">
+    <file name="name1.png" crc="90039637" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="phoebe.png" crc="4072782772" ref="thoughts">
+    <file name="phoebe.png" crc="4072782772" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25080-5.png" crc="3949762634" ref="thoughts"/>
-    <file name="mathew.png" crc="339117176" ref="thoughts">
+    <file name="mathew.png" crc="339117176" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25087-5.png" crc="436571973" ref="thoughts"/>
-    <file name="daniel.png" crc="3791296040" ref="thoughts">
+    <file name="daniel.png" crc="3791296040" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25149-5.png" crc="3971912890" ref="thoughts"/>
     <file name="u25156-5.png" crc="106631074" ref="thoughts"/>
-    <file name="hong-ye.png" crc="4242538937" ref="thoughts">
+    <file name="hong-ye.png" crc="4242538937" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u25331-5.png" crc="4067830770" ref="thoughts"/>
-    <file name="8q6a9096.jpg" crc="67056949" ref="thoughts">
+    <file name="8q6a9096.jpg" crc="67056949" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="img_4551.jpg" crc="4202715167" ref="thoughts">
+    <file name="img_4551.jpg" crc="4202715167" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="8q6a8835.jpg" crc="3840248255" ref="thoughts">
+    <file name="8q6a8835.jpg" crc="3840248255" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="bug01.png" crc="209627714" ref="thoughts">
+    <file name="bug01.png" crc="209627714" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
-    <file name="reflection.png" crc="471553786" ref="thoughts">
+    <file name="reflection.png" crc="471553786" ref="thoughts:thoughts-copy">
       <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts-copy" alt=""/>
     </file>
     <file name="u22290-4.png" crc="4003647807" ref="mryen"/>
     <file name="u22298-5.png" crc="4113833301" ref="mryen"/>
@@ -613,54 +689,103 @@
     <file name="work.png" crc="257976472" ref="work">
       <caption webpage="work" alt=""/>
     </file>
-    <file name="u27761.png" crc="4033586941" ref="mainpage-copy:steps-copy"/>
-    <file name="u27761-m.png" crc="408852223" ref="mainpage-copy:steps-copy"/>
-    <file name="u27761-a.png" crc="4033586941" ref="mainpage-copy:steps-copy"/>
-    <file name="u27750-4.png" crc="226122969" ref="mainpage-copy:steps-copy"/>
-    <file name="u27755-4.png" crc="319444827" ref="mainpage-copy:steps-copy"/>
-    <file name="u27768.png" crc="4045889556" ref="mainpage-copy:steps-copy"/>
-    <file name="u27768-m.png" crc="342633507" ref="mainpage-copy:steps-copy"/>
-    <file name="u27768-a.png" crc="4045889556" ref="mainpage-copy:steps-copy"/>
-    <file name="u27783-4.png" crc="3904068208" ref="mainpage-copy:steps-copy"/>
-    <file name="u27788-4.png" crc="236540599" ref="mainpage-copy:steps-copy"/>
-    <file name="u27777-4.png" crc="4090213128" ref="mainpage-copy:steps-copy"/>
-    <file name="u27804.png" crc="4253955261" ref="mainpage-copy:steps-copy"/>
-    <file name="u27804-m.png" crc="436510637" ref="mainpage-copy:steps-copy"/>
-    <file name="u27804-a.png" crc="4253955261" ref="mainpage-copy:steps-copy"/>
-    <file name="u27731.png" crc="4166480808" ref="mainpage-copy:steps-copy"/>
-    <file name="u27731-m.png" crc="326143428" ref="mainpage-copy:steps-copy"/>
-    <file name="u27731-a.png" crc="4166480808" ref="mainpage-copy:steps-copy"/>
-    <file name="u27739.png" crc="3804825192" ref="mainpage-copy:steps-copy"/>
-    <file name="u27739-m.png" crc="3874197431" ref="mainpage-copy:steps-copy"/>
-    <file name="u27739-a.png" crc="3804825192" ref="mainpage-copy:steps-copy"/>
-    <file name="u27796.png" crc="325716147" ref="mainpage-copy:steps-copy"/>
-    <file name="u27796-m.png" crc="399203160" ref="mainpage-copy:steps-copy"/>
-    <file name="u27796-a.png" crc="325716147" ref="mainpage-copy:steps-copy"/>
+    <file name="u27761.png" crc="4033586941" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27761-m.png" crc="408852223" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27761-a.png" crc="4033586941" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27750-4.png" crc="226122969" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27755-4.png" crc="319444827" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27768.png" crc="4045889556" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27768-m.png" crc="342633507" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27768-a.png" crc="4045889556" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27783-4.png" crc="4024056177" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27788-4.png" crc="285884825" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27777-4.png" crc="4090213128" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27804.png" crc="505353357" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27804-m.png" crc="3813915919" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27804-a.png" crc="505353357" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27731.png" crc="4145151109" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27731-m.png" crc="428909006" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27731-a.png" crc="4145151109" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27739.png" crc="3804825192" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27739-m.png" crc="3874197431" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27739-a.png" crc="3804825192" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27796.png" crc="325716147" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27796-m.png" crc="399203160" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
+    <file name="u27796-a.png" crc="325716147" ref="mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy"/>
     <file name="u27633-4.png" crc="3908901893" ref="mainpage-copy"/>
     <file name="u27647-5.png" crc="3864518311" ref="mainpage-copy"/>
     <file name="u27660-5.png" crc="415926643" ref="mainpage-copy"/>
     <file name="u27645-5.png" crc="25674126" ref="mainpage-copy"/>
     <file name="u27655-5.png" crc="4184783672" ref="mainpage-copy"/>
-    <file name="u27927-4.png" crc="358490715" ref="steps-copy"/>
-    <file name="u27943-5.png" crc="3941230941" ref="steps-copy"/>
-    <file name="u27946-5.png" crc="3906589897" ref="steps-copy"/>
-    <file name="u27957-5.png" crc="3787548665" ref="steps-copy"/>
+    <file name="u27927-4.png" crc="358490715" ref="productionprocess"/>
+    <file name="u27943-5.png" crc="3941230941" ref="productionprocess"/>
+    <file name="u27946-5.png" crc="4241240489" ref="productionprocess"/>
+    <file name="u27957-5.png" crc="4147684967" ref="productionprocess"/>
+    <file name="u28690_states.png" crc="4120903093" ref="index"/>
+    <file name="button-u28690_states-r.png" crc="188630863" ref="index"/>
+    <file name="u28074-4.png" crc="59669259" ref="quationnarie-copy"/>
+    <file name="u28081-5.png" crc="4087235784" ref="quationnarie-copy"/>
+    <file name="u28059-5.png" crc="89890574" ref="quationnarie-copy"/>
+    <file name="u28202-4.png" crc="4026137238" ref="thoughts-copy"/>
+    <file name="u28211-5.png" crc="4061522814" ref="thoughts-copy"/>
+    <file name="u28222-5.png" crc="285746326" ref="thoughts-copy"/>
+    <file name="u28224-5.png" crc="4129417940" ref="thoughts-copy"/>
+    <file name="u28239-5.png" crc="401283543" ref="thoughts-copy"/>
+    <file name="u28250-5.png" crc="3847872297" ref="thoughts-copy"/>
+    <file name="u28234-5.png" crc="3981775427" ref="thoughts-copy"/>
+    <file name="u28257-5.png" crc="3949762634" ref="thoughts-copy"/>
+    <file name="u28263-5.png" crc="436571973" ref="thoughts-copy"/>
+    <file name="u28206-5.png" crc="3971912890" ref="thoughts-copy"/>
+    <file name="u28213-5.png" crc="106631074" ref="thoughts-copy"/>
+    <file name="u28221-5.png" crc="4067830770" ref="thoughts-copy"/>
+    <file name="button-u28931-r-fr.png" crc="468947437" ref="homepage"/>
+    <file name="u28934.png" crc="4033586941" ref="homepage"/>
+    <file name="u28934-m.png" crc="408852223" ref="homepage"/>
+    <file name="u28934-a.png" crc="4033586941" ref="homepage"/>
+    <file name="u28940-4.png" crc="226122969" ref="homepage"/>
+    <file name="u28947-4.png" crc="319444827" ref="homepage"/>
+    <file name="u29004.png" crc="4045889556" ref="homepage"/>
+    <file name="u29004-m.png" crc="342633507" ref="homepage"/>
+    <file name="u29004-a.png" crc="4045889556" ref="homepage"/>
+    <file name="u28993-4.png" crc="4024056177" ref="homepage"/>
+    <file name="u29001-4.png" crc="285884825" ref="homepage"/>
+    <file name="u28986-4.png" crc="4090213128" ref="homepage"/>
+    <file name="u28954.png" crc="505353357" ref="homepage"/>
+    <file name="u28954-m.png" crc="3813915919" ref="homepage"/>
+    <file name="u28954-a.png" crc="505353357" ref="homepage"/>
+    <file name="u28961.png" crc="4145151109" ref="homepage"/>
+    <file name="u28961-m.png" crc="428909006" ref="homepage"/>
+    <file name="u28961-a.png" crc="4145151109" ref="homepage"/>
+    <file name="u28967.png" crc="3804825192" ref="homepage"/>
+    <file name="u28967-m.png" crc="3874197431" ref="homepage"/>
+    <file name="u28967-a.png" crc="3804825192" ref="homepage"/>
+    <file name="u28975.png" crc="325716147" ref="homepage"/>
+    <file name="u28975-m.png" crc="399203160" ref="homepage"/>
+    <file name="u28975-a.png" crc="325716147" ref="homepage"/>
+    <file name="u28652-4.png" crc="3944237961" ref="future-copy"/>
+    <file name="u28625-5.png" crc="332887181" ref="future-copy"/>
+    <file name="u28650-5.png" crc="405100489" ref="future-copy"/>
+    <file name="u28644-5.png" crc="3817343075" ref="future-copy"/>
   </folder>
-  <file name="index.html" crc="3878498511" seo="true" mt="1551200677043" redirect="true"/>
-  <file name="narrative.html" crc="148914961" seo="true" mt="1551242825839" redirect="true"/>
-  <file name="projectoverview.html" crc="4011488721" seo="true" mt="1583212409559" redirect="true"/>
-  <file name="contribute.html" crc="3857611911" seo="true" mt="1551276237441" redirect="true"/>
-  <file name="plan.html" crc="16805289" seo="true" mt="1583212409698" redirect="true"/>
-  <file name="mainpage.html" crc="257408727" seo="true" mt="1583212409699" redirect="true"/>
-  <file name="master.html" crc="3842377452" seo="true" mt="1583212409698" redirect="true"/>
-  <file name="steps.html" crc="123850108" seo="true" mt="1583212409557" redirect="true"/>
-  <file name="future.html" crc="459770239" seo="true" mt="1583212409562" redirect="true"/>
-  <file name="quationnarie.html" crc="475631096" seo="true" mt="1583212409700" redirect="true"/>
-  <file name="thoughts.html" crc="3903405121" seo="true" mt="1583212411005" redirect="true"/>
-  <file name="mryen.html" crc="3928860238" seo="true" mt="1582981425445" redirect="true"/>
-  <file name="tradartwork.html" crc="3957172994" seo="true" mt="1583212409697" redirect="true"/>
-  <file name="work.html" crc="96178738" seo="true" mt="1583212409556" redirect="true"/>
-  <file name="untitled-16.html" crc="179893682" seo="true" mt="1583066332592" redirect="true"/>
-  <file name="mainpage-copy.html" crc="3766030488" seo="true" mt="1583212409700" redirect="true"/>
-  <file name="steps-copy.html" crc="336648839" seo="true" mt="1583212409552" redirect="true"/>
+  <file name="index.html" crc="286428475" seo="true" mt="1583511833196" redirect="true"/>
+  <file name="narrative.html" crc="148914961" seo="true" mt="1583301068925" redirect="true"/>
+  <file name="projectoverview.html" crc="4011488721" seo="true" mt="1583301068925" redirect="true"/>
+  <file name="contribute.html" crc="3857611911" seo="true" mt="1583301068925" redirect="true"/>
+  <file name="plan.html" crc="4242137290" seo="true" mt="1583301068925" redirect="true"/>
+  <file name="mainpage.html" crc="257408727" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="master.html" crc="3842377452" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="steps.html" crc="123850108" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="future.html" crc="459770239" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="quationnarie.html" crc="475631096" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="thoughts.html" crc="3903405121" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="mryen.html" crc="3928860238" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="tradartwork.html" crc="3957172994" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="work.html" crc="96178738" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="untitled-16.html" crc="179893682" seo="true" mt="1583301068913" redirect="true"/>
+  <file name="mainpage-copy.html" crc="12101954" seo="true" mt="1583511596551" redirect="true"/>
+  <file name="productionprocess.html" crc="3909094864" seo="true" mt="1583511596551" redirect="true"/>
+  <file name="quationnarie-copy.html" crc="403827570" seo="true" mt="1583511596551" redirect="true"/>
+  <file name="thoughts-copy.html" crc="4211190679" seo="true" mt="1583511596551" redirect="true"/>
+  <file name="homepage.html" crc="239843722" seo="true" mt="1583511631970" redirect="true"/>
+  <file name="future-copy.html" crc="4136965725" seo="true" mt="1583511596551" redirect="true"/>
 </manifest>
