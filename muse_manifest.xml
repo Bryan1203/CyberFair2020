@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583511883761">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583596272618">
   <folder name="css">
     <file name="site_global.css" crc="31943747"/>
     <file name="master_mainpage.css" crc="289503867" ref="thoughts:quationnarie:mainpage:work:tradartwork:untitled-16:master:mryen:steps:future"/>
     <file name="master_intro.css" crc="3870257315" ref="projectoverview:contribute:plan:narrative"/>
     <file name="master_mainpage-eng.css" crc="4045444625" ref="mainpage-copy:quationnarie-copy:future-copy:productionprocess:thoughts-copy"/>
-    <file name="master_home.css" crc="4129488348" ref="index:homepage"/>
+    <file name="master_home.css" crc="277575807" ref="index:homepage"/>
     <file name="thoughts.css" crc="68080405" ref="thoughts"/>
     <file name="quationnarie.css" crc="473561438" ref="quationnarie"/>
     <file name="mainpage.css" crc="4269245221" ref="mainpage"/>
     <file name="work.css" crc="205773756" ref="work"/>
-    <file name="index.css" crc="21685204" ref="index"/>
+    <file name="index.css" crc="3829776398" ref="index"/>
     <file name="mainpage-copy.css" crc="3896062443" ref="mainpage-copy"/>
     <file name="tradartwork.css" crc="4270135528" ref="tradartwork"/>
     <file name="projectoverview.css" crc="107346268" ref="projectoverview"/>
@@ -21,7 +21,7 @@
     <file name="future.css" crc="373451046" ref="future"/>
     <file name="plan.css" crc="48358301" ref="plan"/>
     <file name="narrative.css" crc="4270837040" ref="narrative"/>
-    <file name="homepage.css" crc="4072017672" ref="homepage"/>
+    <file name="homepage.css" crc="3922567525" ref="homepage"/>
     <file name="quationnarie-copy.css" crc="4135920877" ref="quationnarie-copy"/>
     <file name="future-copy.css" crc="421035395" ref="future-copy"/>
     <file name="productionprocess.css" crc="3975417641" ref="productionprocess"/>
@@ -50,11 +50,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="homepage" alt=""/>
     </file>
-    <file name="frontlogohd.png" crc="3767328023" seo="true" ref="index:homepage">
-      <caption webpage="index" alt=""/>
-      <caption webpage="homepage" alt=""/>
-    </file>
-    <file name="introbackground01.png" crc="155101884" seo="true" ref="index:homepage">
+    <file name="frontlogohd.png" crc="405821196" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="homepage" alt=""/>
     </file>
@@ -181,7 +177,7 @@
     <file name="background04.jpg" crc="3822374416" ref="narrative">
       <caption webpage="narrative" alt=""/>
     </file>
-    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy">
+    <file name="inkpoint.png" crc="3802025612" seo="true" ref="narrative:plan:mainpage:master:steps:future:quationnarie:thoughts:mryen:tradartwork:work:mainpage-copy:productionprocess:quationnarie-copy:thoughts-copy:future-copy:index">
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork" alt=""/>
@@ -249,6 +245,9 @@
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps-copy" alt=""/>
       <caption webpage="steps-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
@@ -766,8 +765,27 @@
     <file name="u28625-5.png" crc="332887181" ref="future-copy"/>
     <file name="u28650-5.png" crc="405100489" ref="future-copy"/>
     <file name="u28644-5.png" crc="3817343075" ref="future-copy"/>
+    <file name="u29218.png" crc="236031353" ref="index"/>
+    <file name="u29218-r.png" crc="3854188943" ref="index"/>
+    <file name="u29230-5.png" crc="3998812760" ref="index"/>
+    <file name="u16541.png" crc="3938340171" ref="index"/>
+    <file name="u16541-r.png" crc="3774362626" ref="index"/>
+    <file name="u29263-5.png" crc="4087271739" ref="index"/>
+    <file name="inkcrafting.png" crc="387225513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29242-5.png" crc="476841338" ref="index"/>
+    <file name="u28453.png" crc="525700223" ref="homepage"/>
+    <file name="u28453-r.png" crc="531310663" ref="homepage"/>
+    <file name="u28453-m.png" crc="525700223" ref="homepage"/>
+    <file name="frontlogoeng.png" crc="326091058" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
+    <file name="inkimageprocs.png" crc="4011319774" seo="true" ref="homepage">
+      <caption webpage="homepage" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="286428475" seo="true" mt="1583511833196" redirect="true"/>
+  <file name="index.html" crc="356959489" seo="true" mt="1583596254742" redirect="true"/>
   <file name="narrative.html" crc="148914961" seo="true" mt="1583301068925" redirect="true"/>
   <file name="projectoverview.html" crc="4011488721" seo="true" mt="1583301068925" redirect="true"/>
   <file name="contribute.html" crc="3857611911" seo="true" mt="1583301068925" redirect="true"/>
@@ -786,6 +804,6 @@
   <file name="productionprocess.html" crc="3909094864" seo="true" mt="1583511596551" redirect="true"/>
   <file name="quationnarie-copy.html" crc="403827570" seo="true" mt="1583511596551" redirect="true"/>
   <file name="thoughts-copy.html" crc="4211190679" seo="true" mt="1583511596551" redirect="true"/>
-  <file name="homepage.html" crc="239843722" seo="true" mt="1583511631970" redirect="true"/>
+  <file name="homepage.html" crc="271544101" seo="true" mt="1583595743819" redirect="true"/>
   <file name="future-copy.html" crc="4136965725" seo="true" mt="1583511596551" redirect="true"/>
 </manifest>

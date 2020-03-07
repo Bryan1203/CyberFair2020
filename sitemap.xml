@@ -12,7 +12,10 @@
       <image:loc>http://test.com/images/frontlogohd.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/introbackground01.png</image:loc>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/inkcrafting.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -309,10 +312,10 @@
       <image:loc>http://test.com/images/home_logo01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/frontlogohd.png</image:loc>
+      <image:loc>http://test.com/images/frontlogoeng.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://test.com/images/introbackground01.png</image:loc>
+      <image:loc>http://test.com/images/inkimageprocs.png</image:loc>
     </image:image>
   </url>
   <url>

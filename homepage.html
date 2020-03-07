@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>浮光魅影-漆線雕</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=31943747"/>
-  <link rel="stylesheet" type="text/css" href="css/master_home.css?crc=4129488348"/>
-  <link rel="stylesheet" type="text/css" href="css/homepage.css?crc=4072017672" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_home.css?crc=277575807"/>
+  <link rel="stylesheet" type="text/css" href="css/homepage.css?crc=3922567525" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -27,20 +27,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu16724"><!-- group -->
-    <div class="browser_width" id="u16724-bw">
-     <div id="u16724"><!-- simple frame --></div>
+   <div class="clearfix grpelem" id="ppu28453"><!-- group -->
+    <div class="grpelem" id="u28453"><!-- state-based BG images -->
+     <div class="fluid_height_spacer"></div>
     </div>
-    <div class="clip_frame" id="u21602"><!-- image -->
-     <img class="block" id="u21602_img" src="images/home_logo01.png?crc=112749751" alt="" data-heightwidthratio="0.08771929824561403" data-image-width="399" data-image-height="35"/>
+    <div class="clip_frame grpelem" id="u29198"><!-- image -->
+     <img class="block" id="u29198_img" src="images/frontlogoeng.png?crc=326091058" alt="" data-heightwidthratio="0.7160804020100503" data-image-width="398" data-image-height="285"/>
     </div>
-   </div>
-   <div class="clearfix grpelem" id="pu28451"><!-- group -->
-    <div class="clip_frame grpelem" id="u28451"><!-- image -->
-     <img class="block" id="u28451_img" src="images/frontlogohd.png?crc=3767328023" alt="" data-heightwidthratio="1.3906976744186046" data-image-width="215" data-image-height="299"/>
-    </div>
-    <div class="clip_frame grpelem" id="u28453"><!-- image -->
-     <img class="block" id="u28453_img" src="images/introbackground01.png?crc=155101884" alt="" data-heightwidthratio="0.6555891238670695" data-image-width="662" data-image-height="434"/>
+    <div class="clip_frame grpelem" id="u29208"><!-- image -->
+     <img class="block" id="u29208_img" src="images/inkimageprocs.png?crc=4011319774" alt="" data-heightwidthratio="0.9007633587786259" data-image-width="131" data-image-height="118"/>
     </div>
     <nav class="MenuBar clearfix grpelem" id="menuu28929" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- horizontal box -->
      <div class="MenuItemContainer clearfix grpelem" id="u28930"><!-- vertical box -->
@@ -82,9 +77,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </nav>
    </div>
-   <div class="verticalspacer" data-offset-top="462" data-content-above-spacer="685" data-content-below-spacer="90" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="429" data-content-above-spacer="439" data-content-below-spacer="252" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="browser_width grpelem" id="u29258-bw">
+    <div id="u29258"><!-- group -->
+     <div class="clearfix" id="u29258_align_to_page">
+      <div class="clip_frame grpelem" id="u21602"><!-- image -->
+       <img class="block" id="u21602_img" src="images/home_logo01.png?crc=112749751" alt="" data-heightwidthratio="0.08771929824561403" data-image-width="399" data-image-height="35"/>
+      </div>
+     </div>
+    </div>
+   </div>
   </div>
   <div class="preload_images">
+   <img class="preload" src="images/u28453-r.png?crc=531310663" alt=""/>
+   <img class="preload" src="images/u28453-m.png?crc=525700223" alt=""/>
    <img class="preload" src="images/button-u28931-r-fr.png?crc=468947437" alt=""/>
    <img class="preload" src="images/u28934-m.png?crc=408852223" alt=""/>
    <img class="preload" src="images/u28934-a.png?crc=4033586941" alt=""/>
@@ -116,6 +122,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
