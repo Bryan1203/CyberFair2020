@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583762390058">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1583806846943">
   <folder name="assets">
     <file name="org1.png" crc="3947561849" seo="true" mt="1583669534000"/>
     <file name="orgpic.webp" crc="162851683" seo="true" mt="1583669344000"/>
@@ -27,7 +27,7 @@
     <file name="contribute-copy.css" crc="3933716092" ref="contribute-copy"/>
     <file name="bibilography.css" crc="4229206294" ref="bibilography"/>
     <file name="homepagechinese.css" crc="3946265920" ref="homepagechinese"/>
-    <file name="narrative.css" crc="425712664" ref="narrative"/>
+    <file name="narrative.css" crc="34747504" ref="narrative"/>
     <file name="traditionallibrary.css" crc="4261291001" ref="traditionallibrary"/>
     <file name="cultureadmin.css" crc="4282189846" ref="cultureadmin"/>
     <file name="thoughtschi.css" crc="231421753" ref="thoughtschi"/>
@@ -50,6 +50,7 @@
   </folder>
   <folder name="images">
     <file name="footer.png" crc="72676742" ref="mainpage:aboutlts:projectoverview:homepagechinese:bibilography:narrative">
+      <caption webpage="narrative" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="homepagechinese" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
@@ -84,6 +85,72 @@
       <caption webpage="tradartwork-copy" alt=""/>
       <caption webpage="homepagechinese" alt=""/>
       <caption webpage="bibilography" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="tradartwork-copy-2" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="thoughts" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
+      <caption webpage="master" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
@@ -111,121 +178,46 @@
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="mainpage-copy" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
+      <caption webpage="tradlibchi" alt=""/>
       <caption webpage="projectoverview" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="master" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="thoughts" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="tradartwork-copy-2" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="tradlibchi" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="narrative" alt=""/>
       <caption webpage="narrative" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:projectoverview:plan:mainpage:master:steps:future:mryen:tradartwork:work:productionprocess:aboutlts:jiayilin:jinyiyen:masterpieces:contribute-copy:bibilography:homepagechinese:narrative:traditionallibrary:cultureadmin:quationnariechi:thoughtschi:quationnarieeng:thoughtseng:tradlibchi:heritagevalue"/>
@@ -282,36 +274,36 @@
     <file name="u27098-m.png" crc="152046100" ref="homepagechinese"/>
     <file name="u27098-a.png" crc="3807893050" ref="homepagechinese"/>
     <file name="upperlogo.jpg" crc="3800365208" seo="true" ref="projectoverview:plan:mainpage:master:steps:future:mryen:tradartwork:work:productionprocess:aboutlts:jiayilin:jinyiyen:masterpieces:contribute-copy:bibilography:narrative:traditionallibrary:cultureadmin:quationnariechi:thoughtschi:quationnarieeng:thoughtseng:tradlibchi:heritagevalue">
-      <caption webpage="narrative-eng" alt=""/>
       <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="jiayilin" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="tradartwork-copy-2" alt=""/>
       <caption webpage="hertiageandvalue" alt=""/>
       <caption webpage="traditionallibrary" alt=""/>
-      <caption webpage="future-copy" alt=""/>
-      <caption webpage="untitled-16" alt=""/>
+      <caption webpage="jinyiyen" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
       <caption webpage="cultureadmin" alt=""/>
       <caption webpage="quationnarie" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
-      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="heritagevalue" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="quationnariechi" alt=""/>
-      <caption webpage="heritagevalue" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork-copy" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="contribute-copy" alt=""/>
       <caption webpage="contribute-copy" alt=""/>
       <caption webpage="quationnarie-eng" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="quationnarieeng" alt=""/>
+      <caption webpage="untitled-16" alt=""/>
       <caption webpage="bibilography" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="contribute" alt=""/>
@@ -319,15 +311,15 @@
       <caption webpage="narrative" alt=""/>
       <caption webpage="thoughts-eng" alt=""/>
       <caption webpage="master-copy" alt=""/>
-      <caption webpage="mainpage" alt=""/>
+      <caption webpage="quationnarieeng" alt=""/>
       <caption webpage="tradlibchi" alt=""/>
       <caption webpage="master" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
-      <caption webpage="jinyiyen" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
       <caption webpage="work-copy" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="narrative-eng" alt=""/>
+      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="u21272.png" crc="4274819377" ref="projectoverview:plan:contribute-copy:bibilography:narrative"/>
     <file name="u21272-m.png" crc="4004353883" ref="projectoverview:plan:contribute-copy:bibilography:narrative"/>
@@ -350,6 +342,7 @@
       <caption webpage="bibilography" alt=""/>
     </file>
     <file name="inkpoint.png" crc="3802025612" seo="true" ref="projectoverview:bibilography:narrative">
+      <caption webpage="projectoverview" alt=""/>
       <caption webpage="productionprocess" alt=""/>
       <caption webpage="productionprocess" alt=""/>
       <caption webpage="productionprocess" alt=""/>
@@ -363,15 +356,16 @@
       <caption webpage="jiayilin" alt=""/>
       <caption webpage="jiayilin" alt=""/>
       <caption webpage="jiayilin" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
-      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="thoughts" alt=""/>
@@ -393,14 +387,13 @@
       <caption webpage="traditionallibrary" alt=""/>
       <caption webpage="traditionallibrary" alt=""/>
       <caption webpage="traditionallibrary" alt=""/>
-      <caption webpage="narrative" alt=""/>
-      <caption webpage="future-copy" alt=""/>
-      <caption webpage="future-copy" alt=""/>
-      <caption webpage="future-copy" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
-      <caption webpage="mainpage" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
       <caption webpage="cultureadmin" alt=""/>
       <caption webpage="cultureadmin" alt=""/>
       <caption webpage="cultureadmin" alt=""/>
@@ -416,40 +409,72 @@
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
+      <caption webpage="heritagevalue" alt=""/>
+      <caption webpage="heritagevalue" alt=""/>
+      <caption webpage="heritagevalue" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="quationnariechi" alt=""/>
       <caption webpage="quationnariechi" alt=""/>
-      <caption webpage="heritagevalue" alt=""/>
-      <caption webpage="heritagevalue" alt=""/>
-      <caption webpage="heritagevalue" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="work" alt=""/>
-      <caption webpage="tradartwork" alt=""/>
-      <caption webpage="tradartwork" alt=""/>
-      <caption webpage="tradartwork" alt=""/>
-      <caption webpage="tradartwork" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
+      <caption webpage="tradartwork-copy" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="bibilography" alt=""/>
       <caption webpage="quationnarie-eng" alt=""/>
       <caption webpage="quationnarie-eng" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
+      <caption webpage="narrative" alt=""/>
+      <caption webpage="tradartwork" alt=""/>
+      <caption webpage="tradartwork" alt=""/>
+      <caption webpage="tradartwork" alt=""/>
+      <caption webpage="tradartwork" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
@@ -464,50 +489,12 @@
       <caption webpage="jinyiyen" alt=""/>
       <caption webpage="jinyiyen" alt=""/>
       <caption webpage="jinyiyen" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="tradartwork-copy-copy" alt=""/>
+      <caption webpage="master-copy" alt=""/>
+      <caption webpage="master-copy" alt=""/>
+      <caption webpage="master-copy" alt=""/>
+      <caption webpage="master-copy" alt=""/>
       <caption webpage="quationnarieeng" alt=""/>
       <caption webpage="quationnarieeng" alt=""/>
-      <caption webpage="masterpieces" alt=""/>
-      <caption webpage="masterpieces" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="plan" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="thoughts-eng" alt=""/>
-      <caption webpage="master-copy" alt=""/>
-      <caption webpage="master-copy" alt=""/>
-      <caption webpage="master-copy" alt=""/>
-      <caption webpage="master-copy" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
       <caption webpage="tradlibchi" alt=""/>
       <caption webpage="tradlibchi" alt=""/>
       <caption webpage="tradlibchi" alt=""/>
@@ -521,72 +508,77 @@
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
       <caption webpage="master" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
       <caption webpage="work-copy" alt=""/>
       <caption webpage="work-copy" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="thoughts-eng" alt=""/>
+      <caption webpage="future-copy" alt=""/>
+      <caption webpage="future-copy" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="relateinfo.png" crc="3929212042" seo="true" ref="narrative">
       <caption webpage="narrative" alt=""/>
       <caption webpage="narrative-eng" alt=""/>
     </file>
     <file name="home_logo.png" crc="4037911285" seo="true" ref="projectoverview:plan:mainpage:master:steps:future:mryen:tradartwork:work:productionprocess:aboutlts:jiayilin:jinyiyen:masterpieces:contribute-copy:bibilography:narrative:traditionallibrary:cultureadmin:quationnariechi:thoughtschi:quationnarieeng:thoughtseng:tradlibchi:heritagevalue">
-      <caption webpage="narrative-eng" alt=""/>
       <caption webpage="productionprocess" alt=""/>
       <caption webpage="mryen" alt=""/>
       <caption webpage="quationnarie-copy" alt=""/>
       <caption webpage="jiayilin" alt=""/>
+      <caption webpage="thoughtseng" alt=""/>
       <caption webpage="thoughts" alt=""/>
       <caption webpage="tradartwork-copy-2" alt=""/>
       <caption webpage="hertiageandvalue" alt=""/>
       <caption webpage="traditionallibrary" alt=""/>
-      <caption webpage="future-copy" alt=""/>
-      <caption webpage="untitled-16" alt=""/>
+      <caption webpage="jinyiyen" alt=""/>
+      <caption webpage="steps-copy" alt=""/>
+      <caption webpage="aboutlts" alt=""/>
       <caption webpage="cultureadmin" alt=""/>
       <caption webpage="quationnarie" alt=""/>
       <caption webpage="mainpage-copy" alt=""/>
-      <caption webpage="mryen-copy" alt=""/>
-      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="heritagevalue" alt=""/>
       <caption webpage="future" alt=""/>
       <caption webpage="quationnariechi" alt=""/>
-      <caption webpage="heritagevalue" alt=""/>
+      <caption webpage="thoughtschi" alt=""/>
       <caption webpage="work" alt=""/>
       <caption webpage="tradartwork-copy" alt=""/>
       <caption webpage="steps" alt=""/>
       <caption webpage="contribute-copy" alt=""/>
       <caption webpage="quationnarie-eng" alt=""/>
-      <caption webpage="thoughtschi" alt=""/>
+      <caption webpage="mryen-copy" alt=""/>
       <caption webpage="thoughts-copy" alt=""/>
       <caption webpage="tradartwork" alt=""/>
       <caption webpage="tradartwork-copy-copy" alt=""/>
-      <caption webpage="quationnarieeng" alt=""/>
+      <caption webpage="untitled-16" alt=""/>
       <caption webpage="bibilography" alt=""/>
       <caption webpage="contribute" alt=""/>
       <caption webpage="plan" alt=""/>
       <caption webpage="narrative" alt=""/>
       <caption webpage="thoughts-eng" alt=""/>
       <caption webpage="master-copy" alt=""/>
-      <caption webpage="mainpage" alt=""/>
+      <caption webpage="quationnarieeng" alt=""/>
       <caption webpage="tradlibchi" alt=""/>
       <caption webpage="master" alt=""/>
-      <caption webpage="aboutlts" alt=""/>
-      <caption webpage="projectoverview" alt=""/>
-      <caption webpage="jinyiyen" alt=""/>
-      <caption webpage="steps-copy" alt=""/>
       <caption webpage="work-copy" alt=""/>
-      <caption webpage="thoughtseng" alt=""/>
+      <caption webpage="projectoverview" alt=""/>
+      <caption webpage="narrative-eng" alt=""/>
+      <caption webpage="masterpieces" alt=""/>
+      <caption webpage="mainpage" alt=""/>
+      <caption webpage="future-copy" alt=""/>
     </file>
     <file name="background03.jpg" crc="483631935" ref="contribute-copy:bibilography:narrative">
       <caption webpage="contribute-copy" alt=""/>
@@ -1642,7 +1634,7 @@
   <file name="contribute-copy.html" crc="3796995774" seo="true" mt="1583713475674" redirect="true"/>
   <file name="bibilography.html" crc="342822694" seo="true" mt="1583753106940" redirect="true"/>
   <file name="homepagechinese.html" crc="3988661843" seo="true" mt="1583762040894" redirect="true"/>
-  <file name="narrative.html" crc="3769658040" seo="true" mt="1583762344990" redirect="true"/>
+  <file name="narrative.html" crc="315220238" seo="true" mt="1583806826298" redirect="true"/>
   <file name="traditionallibrary.html" crc="4040896214" seo="true" mt="1583751631826" redirect="true"/>
   <file name="cultureadmin.html" crc="3847681555" seo="true" mt="1583751838877" redirect="true"/>
   <file name="quationnariechi.html" crc="4221133641" seo="true" mt="1583713475674" redirect="true"/>
