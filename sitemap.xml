@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,23 +17,20 @@
   </url>
   <url>
     <loc>http://test.com/jiayilin.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -41,20 +38,20 @@
   </url>
   <url>
     <loc>http://test.com/jinyiyen.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -94,9 +91,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/inkpoint7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/projov.png</image:loc>
@@ -166,9 +160,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/inkpoint7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -281,20 +272,20 @@
   </url>
   <url>
     <loc>http://test.com/productionprocess.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -302,20 +293,20 @@
   </url>
   <url>
     <loc>http://test.com/aboutlts.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -323,20 +314,20 @@
   </url>
   <url>
     <loc>http://test.com/traditionallibrary.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -344,20 +335,20 @@
   </url>
   <url>
     <loc>http://test.com/cultureadmin.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/moclogo.png</image:loc>
@@ -389,20 +380,20 @@
   </url>
   <url>
     <loc>http://test.com/masterpieces.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -485,23 +476,20 @@
   </url>
   <url>
     <loc>http://test.com/quationnarieeng.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -544,9 +532,6 @@
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/inkpoint7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/butterfly.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -599,20 +584,20 @@
   </url>
   <url>
     <loc>http://test.com/heritagevalue.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
@@ -620,20 +605,20 @@
   </url>
   <url>
     <loc>http://test.com/thoughtseng.html</loc>
-    <lastmod>2020-03-09</lastmod>
+    <lastmod>2020-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://test.com/images/upperlogo.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://test.com/images/inkpoint.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://test.com/images/home_logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/mount05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://test.com/images/inkpoint7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://test.com/images/cfparticipantbanner2020.jpg</image:loc>
